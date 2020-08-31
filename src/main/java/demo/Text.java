@@ -5,5 +5,6 @@ public class Text {
         System.out.println("第一次");
         System.out.println("第二次");
         System.out.println("分支");
+        System.out.println("主干1");
     }
 }
